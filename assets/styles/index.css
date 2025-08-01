@@ -1,0 +1,19 @@
+/* RESET DO CSS*/
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: ;
+}
+
+h1,
+p {
+    text-align: center;
+}
+header{
+    background-color: rgb(252, 172, 225);
+    color: rgb(221, 43, 182);
+    padding: 40px;
+}
