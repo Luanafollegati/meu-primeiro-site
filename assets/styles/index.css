@@ -11,9 +11,16 @@ body{
 h1,
 p {
     text-align: center;
+    margin: 10px;
 }
+
 header{
     background-color: rgb(252, 172, 225);
     color: rgb(221, 43, 182);
     padding: 40px;
+}
+
+main{
+    height: 600px;
+    background-color: rgb(250, 226, 241);
 }
